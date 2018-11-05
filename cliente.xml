@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+
+cliente
+    numeros
+    DNI
+    nombre
+    apellidos
+    fecha nac
+        dia 
+        mes 
+        anyo
+    direccion
+        nombre direccion (ejemplo casa playa , habitual)
+        tipo via 
+        nombre via 
+        numero
+        planta 
+        portal
+        letra
+        otros
+        municipio
+            localidad
+            cod postal
+    correo electronico
+    movil
+    fijo
+    fecha de registro
+        dia
+        mes 
+        anyo
+    ultimo login
+        timestamp
+        ip
+    user agent
